@@ -5,10 +5,10 @@
 ## Kullanılan Bileşenler
 ---
 
-    1. **ScrolView**
+    1. ** ScrolView **
         - horizontal
         - showHorizontalScrollIndicator
-    2. **FlatList**
+    2. ** FlatList **
         - renderItem1
         - data
         - ListHeaderComponent
