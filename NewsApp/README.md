@@ -9,7 +9,7 @@
         - horizontal
         - showHorizontalScrollIndicator
       * FlatList
-        - renderItem1
+        - renderItem
         - data
         - ListHeaderComponent
 
