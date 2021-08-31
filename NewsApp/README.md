@@ -20,7 +20,7 @@
 
 
 <a target="_blank" href="./SS/bodySS.gif">
-<img src="./SS/bodySS.gif" width="300">
+<img src="./SS/bodySS.gif" width="300" style="max-width:100%;">
 </a>
 
 
