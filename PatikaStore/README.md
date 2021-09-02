@@ -5,6 +5,6 @@
 ---
 <div align="center">
 <a target="_blank" href="./SS/storeSS.gif">
-<img src="./SS/storeSS.gif" width="300" style="max-width:100%;" />
+<img src="./SS/storeSS.gif" width="300"  />
 </a>
 </div>
