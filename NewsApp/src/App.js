@@ -13,6 +13,7 @@ const App = () => {
         <Text style={styles.header}>News</Text>
       </View>
       <FlatList
+        keyExtractor={item => item.u_id}
         ListHeaderComponent={bannerImg}
         data={news_data}
         renderItem={renderNews}
