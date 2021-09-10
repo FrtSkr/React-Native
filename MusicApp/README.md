@@ -34,5 +34,5 @@
 
 ---
 
-<p>useState kullanmamızın amacı da kullanıcının TextInput ile yaptığı etkileşime göre ekrandaki datayı filtreleyip render etmektir. </p>
+<p>Datalarımızı useState ile kullandık. useState kullanmamızın amacı da kullanıcının TextInput ile yaptığı etkileşime göre ekrandaki datayı filtreleyip render etmektir.</p>
 <p>onChangeText propumuzdan bize dönecek olan kullanıcının input verisidir. Yakalanan veriyi json dosyamızda aratarak filter işlemi ile yeni bir data oluşturduk. Filtrelenen datamızı state'imizin fonksiyonuna vererek ekrana render ettirdik.</p>
