@@ -20,7 +20,7 @@
 
 ---
 
-<b><p>Bazı Kullanılan Componentler Ve Propertiler</p></b>
+<b><p>Bazı Kullanılan Componentler Ve Propertyler</p></b>
 ---
 
 - FlatList
