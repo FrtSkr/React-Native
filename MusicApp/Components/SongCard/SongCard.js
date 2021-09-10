@@ -8,7 +8,7 @@ const SongCard = ({song}) => {
         <View style={styles.container}>
         <Image style={styles.img} source={{uri: song.imageUrl}}/>
             <View style={styles.body}>
-                <Text style={styles.title}>{song.title}</Text>                
+                <Text style={styles.title}>{song.title}</Text>
                 <View style={styles.inner_container}>
                     <View style={styles.info_container}>
                         <Text style={styles.artist}>{song.artist}</Text>
